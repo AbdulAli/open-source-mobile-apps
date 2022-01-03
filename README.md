@@ -1,4 +1,4 @@
-# Dataset of Open-source iOS and Android code with their commits' hash
+# Dataset of Open-source 976 iOS and 953 Android apps' code with their commits' hash
 This repository contains thousands of iOS and Android apps code available on github. It also contains a script to fetch the latest data, if required.
 Important note: this dataset only contains basic apps that are purely developed on the native framework. 
 
